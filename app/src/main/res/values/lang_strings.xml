@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- keys -->
+    <string name="pref_key_app_language" translatable="false">pref_key_app_language</string>
+
+    <string name="isoLanguageList" translatable="false">isoLanguageList</string>
+    <string name="LG_FRENCH" translatable="false">Français</string>
+    <string name="LG_ENGLISH" translatable="false">English</string>
+    <string name="LG_ARABIC" translatable="false">عربية</string>
+
+    <string-array name="iso_language_list" translatable="false">
+        <item>FR</item>
+        <item>EN</item>
+        <item>AR</item>
+    </string-array>
+</resources>

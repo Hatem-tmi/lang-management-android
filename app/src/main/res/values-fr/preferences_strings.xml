@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- strings -->
+    <string name="pref_title_app_language">Choisir la langue de l\'application</string>
+
+</resources>

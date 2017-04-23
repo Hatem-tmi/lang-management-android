@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- keys -->
+    <string name="pref_key_reset_data" translatable="false">pref_key_reset_data</string>
+
+    <!-- strings -->
+    <string name="pref_title_app_language">Select application language</string>
+    <string name="pref_summary_app_language" translatable="false">English / Français / عربية</string>
+
+    <!-- entries and values -->
+    <string-array name="string_array_app_language_titles" translatable="false">
+        <item>@string/LG_ENGLISH</item>
+        <item>@string/LG_FRENCH</item>
+        <item>@string/LG_ARABIC</item>
+    </string-array>
+    <string-array name="string_array_app_language_values" translatable="false">
+        <item>ENGLISH_CODE</item>
+        <item>FRENCH_CODE</item>
+        <item>ARABIC_CODE</item>
+    </string-array>
+</resources>

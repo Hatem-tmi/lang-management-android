@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">سلام !!</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+</resources>

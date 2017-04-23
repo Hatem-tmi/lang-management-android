@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello">Salut !!</string>
+    <string name="settings">Paramètres</string>
+    <string name="language">Langue</string>
+</resources>
